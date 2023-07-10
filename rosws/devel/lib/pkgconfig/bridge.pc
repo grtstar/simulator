@@ -1,0 +1,8 @@
+prefix=/home/grt/projects/robot/rosws/devel
+
+Name: bridge
+Description: Description of bridge
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

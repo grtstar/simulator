@@ -1,0 +1,8 @@
+prefix=/home/grt/projects/robot/rosws/devel
+
+Name: c1_gazebo
+Description: Description of c1_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/grt/projects/robot/rosws/devel
+
+Name: lcm2ros
+Description: Description of lcm2ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

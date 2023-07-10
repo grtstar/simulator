@@ -1,0 +1,11 @@
+prefix=/home/zbw/c1/v6/linux_app/common
+exec_prefix=/home/zbw/c1/v6/linux_app/common
+libdir=/home/zbw/c1/v6/linux_app/common/lib
+includedir=/home/zbw/c1/v6/linux_app/common/include
+
+Name: Protocol Buffers
+Description: Google's Data Interchange Format
+Version: 3.4.1
+Libs: -L${libdir} -lprotobuf-lite -lpthread
+Cflags: -I${includedir} -lpthread
+Conflicts: protobuf

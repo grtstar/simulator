@@ -1,0 +1,8 @@
+prefix=/home/grt/projects/robot/rosws/devel
+
+Name: lcm_tunnel
+Description: Description of lcm_tunnel
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

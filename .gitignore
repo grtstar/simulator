@@ -1,0 +1,7 @@
+build
+planning
+mapping
+build_all.sh
+copy_all.sh
+depends
+**/.vscode
